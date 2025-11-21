@@ -1,0 +1,152 @@
+.hero {
+    background-color: var(--bg2);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 36px;
+    padding: 48px 40px;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+}
+
+.hero-left {
+    max-width: 560px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.hero h1 {
+    font-size: 40px;
+}
+
+.hero-desc {
+    margin-bottom: 3rem;
+    color: #e6e6e6b8;
+    font-size: 18px;
+}
+
+.pink-color {
+    color: #EC4899;
+}
+
+.blue-color {
+    color: #60A5FA;
+}
+
+.orange-color {
+    color: #F16524;
+}
+
+
+.hero-ctas {
+    margin-top: 15px;
+}
+
+.hero-ctas .btn {
+    display: inline-block;
+    margin-right: 12px;
+    padding: 10px 16px;
+    border-radius: 8px;
+    background: var(--accent);
+    color: #0b0b0b;
+    font-weight: 600;
+}
+
+.hero-ctas .btn.ghost {
+    background: transparent;
+    color: var(--text);
+    border: 1px solid var(--accent);
+}
+
+.hero-right {
+    min-width: 260px;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-img {
+    
+    border-radius: 20px;
+}
+
+.tech-stack {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-top: 0.75rem;
+}
+
+.tech-item {
+    border: 1px solid var(--accentt);
+    border-radius: 6px;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.tech-item img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.tech-item:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    border-color: var(--accent);
+}
+
+.more-text {
+    color: #aaa;
+    font-size: 15px;
+    margin-left: 10px;
+    font-family: 'Outfit', sans-serif;
+}
+
+@media (max-width: 768px) {
+    .hero {
+        flex-direction: column;
+        padding: 30px 20px;
+        gap: 25px;
+    }
+
+    .hero-left {
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .hero h1 {
+        font-size: 28px;
+    }
+
+    .hero-desc {
+        font-size: 16px;
+        margin-bottom: 2rem;
+    }
+
+    .hero-right {
+        min-width: auto;
+    }
+
+    .hero-img {
+        width: 280px;
+        height: 280px;
+    }
+
+    .tech-stack {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px;
+    }
+
+    .more-text {
+        display: block;
+        margin-left: 0;
+        margin-top: 8px;
+    }
+}
