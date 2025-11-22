@@ -20,7 +20,7 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 git clone https://github.com/alevyldrm/portfolio.git
 
 # 2. Dizine girin  
-cd Portfolio-Website
+cd personal-portfolio
 
 # 3. Bağımlılıkları yükleyin  
 npm install  
