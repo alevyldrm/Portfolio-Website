@@ -17,7 +17,8 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
 # 1. Repo’yu klonla  
-git clone https: https://github.com/alevyldrm/portfolio.git
+git clone https: git clone https://github.com/alevyldrm/portfolio.git
+
 
 
 # 2. Dizine girin  
