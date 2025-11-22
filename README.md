@@ -4,7 +4,7 @@ Kişisel Portföy Sitesi
 Bu proje, modern web teknolojileri kullanılarak geliştirdiğim bir kişisel portföy web sitesidir. Tasarım React/Next.js ekosistemine uygun biçimde, sade, modern ve responsive bir yapı ile hazırlanmıştır.
 
 ## Demo  
-[Canlı Siteyi Görüntüle][(https://…senin­siten.com)  ](https://692054bc068766df611703eb--portfolio-projectwebsite.netlify.app/)
+[Canlı Siteyi Görüntüle](https://--portfolio-projectwebsite.netlify.app/)
 
 ## Kullanılan Teknolojiler  
 - Next.js  
@@ -18,7 +18,7 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
 # 1. Repo’yu klonla  
-git clone https:[//github.com/kullaniciAdi/projeAdi.git](https://portfolio-projectwebsite.netlify.app/)
+git clone https:(https://portfolio-projectwebsite.netlify.app/)
 
 # 2. Dizine girin  
 cd projeAdi  
