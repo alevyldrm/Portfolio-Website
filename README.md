@@ -1,8 +1,8 @@
-# [Portföy Sitesi]  
+# Portföy Sitesi
 
 Bu proje, modern web teknolojileri kullanılarak geliştirdiğim bir kişisel portföy web sitesidir. Tasarım React/Next.js ekosistemine uygun biçimde, sade, modern ve responsive bir yapı ile hazırlanmıştır.
 
-## Demo  
+## 🚀 Demo  
 [Canlı Siteyi Görüntüle](https://portfolio-projectwebsite.netlify.app/)
 
 ## Kullanılan Teknolojiler  
@@ -12,7 +12,7 @@ Bu proje, modern web teknolojileri kullanılarak geliştirdiğim bir kişisel po
 - React Icons 
 - Netlify 
 
-## Kurulum  
+## ⚙️ Kurulum  
 Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
