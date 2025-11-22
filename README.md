@@ -5,7 +5,7 @@ Bu proje, modern web teknolojileri kullanılarak geliştirdiğim bir kişisel po
 ## 🚀 Demo  
 [Canlı Siteyi Görüntüle](https://portfolio-projectwebsite.netlify.app/)
 
-## Kullanılan Teknolojiler  
+## 🛠 Kullanılan Teknolojiler  
 - Next.js  
 - React  
 - CSS 
