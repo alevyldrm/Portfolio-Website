@@ -19,8 +19,6 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 # 1. Repo’yu klonla  
 git clone https://github.com/alevyldrm/portfolio.git
 
-
-
 # 2. Dizine girin  
 cd Portfolio-Website
 
