@@ -17,12 +17,12 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
 # 1. Repo’yu klonla  
-git clone https: git clone https://github.com/alevyldrm/portfolio.git
+git clone https: https://github.com/alevyldrm/portfolio.git
 
 
 
 # 2. Dizine girin  
-cd projeAdi  
+cd [projeAdi](https://github.com/alevyldrm/Portfolio-Website)  
 
 # 3. Bağımlılıkları yükleyin  
 npm install  
