@@ -17,7 +17,8 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
 # 1. Repo’yu klonla  
-git clone https:(https://portfolio-projectwebsite.netlify.app/)
+git clone https: https://github.com/alevyldrm/portfolio.git
+
 
 # 2. Dizine girin  
 cd projeAdi  
