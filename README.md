@@ -1,6 +1,6 @@
-# [Projeni’nin Adı]  
-Kişisel Portföy Sitesi
+# [Portföy Sitesi]  
 
+Kişisel Portföy Sitesi
 Bu proje, modern web teknolojileri kullanılarak geliştirdiğim bir kişisel portföy web sitesidir. Tasarım React/Next.js ekosistemine uygun biçimde, sade, modern ve responsive bir yapı ile hazırlanmıştır.
 
 ## Demo  
